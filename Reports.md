@@ -3,13 +3,13 @@
 ## Best times to meet
 Michael- Any time after 3 is ideal
 
-Amy-
+Amy- Any time after 6:30 works
 
 Ahsen- 
 
 ## Best way to contact:
 Michael- Teams is my number one choice 
 
-Amy-
+Amy- Teams works best
 
 Ahsen- Teams is my number one choice
