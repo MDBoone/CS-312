@@ -74,7 +74,7 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="C:\Users\Mdale\OneDrive\Desktop\New folder\headshot.jpg" alt="Michael" style="width:100%;">
+        <img src="headshot.jpg" alt="Michael" style="width:100%;">
         <div class="carousel-caption">
           <h3>Michael Boone</h3>
           <p>Hello, I am a senior computer science major expecting to graduate in May! I currently work full time at British Aerospace as a software engineer. I am also the head web developer and co-founder for the start up immersion oil company Pirate Juice. I live in Fort Collins with my wife Siri and our two cats fiddle and finch. I love spending time fishing and backpacking!</p>
